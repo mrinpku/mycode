@@ -1,0 +1,10 @@
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\bin\Release\gis.exe.config
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\bin\Release\gis.exe
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\bin\Release\gis.pdb
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.Form1.resources
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.Properties.Resources.resources
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.栅格化设置.resources
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.csproj.GenerateResource.Cache
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.exe
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.pdb
+C:\Users\miao\Desktop\hongloumeng\显示结果\gis\gis\obj\Release\gis.csprojResolveAssemblyReference.cache
